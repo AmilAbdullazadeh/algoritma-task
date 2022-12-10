@@ -5,4 +5,4 @@ command'nı run etmək kifayətedir
 ## Istififadə olunan texnologiyalar: 
 ### TypeScript, React, Redux-Toolkit, Lazy Loading, Antd, Styled-Components, Express.js, Toastify
 ## Memorization (cache) üçün: 
-### localSStorage, React.memo ve useCallback hook-dan istifade edilmişdir
+### localStorage, React.memo ve useCallback hook-dan istifade edilmişdir
